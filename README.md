@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @travwritescode
 - 👀 I’m interested in natural language processing, game development, and data analysis and visualization
-- 🌱 I’m currently learning data science concepts with Python
+- 🌱 I’m currently learning how to develop apps with Python!
 - 📫 How to reach me: email in profile!
 
 <!---
