@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @travwritescode
-- 👀 I’m interested in automated testing with Cypress and Python, natural language processing, and programmatic photography effects
-- 🌱 I’m currently re-learning how to use Cypress to write automated tests and building out my automated testing portfolio.
-- 📫 How to reach me: email!
+- 👋 Hi, I’m Travis!
+- 👀 I’m interested in all things automated testing. I've tested professionally with Selenium WebDriver in C#, Java, and Python, JavaScript with Cypress and CodeceptJS, and APIs with RestAssured and Postman.
+- 🌱 I’m currently reading the book _Test Driven Development with Python_ and following along with building a web app with Django and functional tests written with Selenium. You can see my progress [here](https://github.com/travwritescode/tdd-with-python)!
+- 📫 How to reach me: send me an email!
 
 <!---
 travwritescode/travwritescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
