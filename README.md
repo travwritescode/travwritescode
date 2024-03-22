@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on:
   - Learning web development basics through The Odin Project curriculum. Follow along in my [daily log](https://github.com/travwritescode/travwritescode.github.io/blob/master/log.md)!
   - Building on my test automation portfolio. You can find the source code [here](https://github.com/travwritescode/test-portfolio).
-- 📫 How to reach me: [send me an email](mailto:travis.anderson30@gmail.com)!
+- 📫 How to reach me: send me an email!
 
 <!---
 travwritescode/travwritescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
