@@ -6,6 +6,9 @@
   - Building on my test automation portfolio. You can find the source code [here](https://github.com/travwritescode/test-portfolio).
 - 📫 How to reach me: send me an email!
 
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,cypress,html,css,py,selenium,github,notion&theme=light)](https://skillicons.dev)
+
 <!---
 travwritescode/travwritescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
