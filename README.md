@@ -26,7 +26,8 @@ Most recently I was the founding quality engineer at an early-stage startup, whe
 
 | Repo | What It Is |
 |---|---|
-| [`taskflow-api`](https://github.com/travwritescode/flowstate-api) | FastAPI backend — REST API with JWT auth, OpenAPI spec, Pact provider |
+| [`flowstate-api`](https://github.com/travwritescode/flowstate-api) | FastAPI backend — REST API with JWT auth, OpenAPI spec, Pact provider |
+| [`pytest-api-framework`](https://github.com/travwritescode/pytest-api-framework) | Python API test suite with pytest, httpx, and Allure reporting |
 
 ---
 <!--
@@ -34,7 +35,6 @@ Most recently I was the founding quality engineer at an early-stage startup, whe
 | [`taskflow-web`](https://github.com/travwritescode/flowstate-web) | React frontend — Pact consumer, Playwright target |
 | [`playwright-ts-framework`](https://github.com/travwritescode/playwright-ts-framework) | POM-based E2E framework with custom fixtures, tagging, and GitHub Actions CI |
 | [`k6-load-testing-suite`](https://github.com/travwritescode/k6-load-testing-suite) | Load test scenarios (smoke/load/stress/spike) with threshold-based CI gates |
-| [`pytest-api-framework`](https://github.com/travwritescode/pytest-api-framework) | Python API test suite with pytest, httpx, and Allure reporting |
 
 ---
 -->
