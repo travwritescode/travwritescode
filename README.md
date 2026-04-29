@@ -29,7 +29,7 @@ Exploring app development and writing robust test infrastructure across the enti
 | Repo | What It Is |
 |---|---|
 | [`flowstate-api`](https://github.com/travwritescode/flowstate-api) | FastAPI backend — REST API with JWT auth, OpenAPI spec, Pact provider |
-| [`flowstate-web`](https://github.com/travwritescode/flowstate-web) | React frontend, accessibility — Pact consumer, Playwright target |
+| [`flowstate-web`](https://github.com/travwritescode/flowstate-ui) | React frontend, accessibility — Pact consumer, Playwright target |
 | [`pytest-api-framework`](https://github.com/travwritescode/pytest-api-framework) | Python API test suite with pytest, httpx, and Allure reporting |
 
 ---
