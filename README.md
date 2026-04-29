@@ -24,7 +24,7 @@ Most recently I was the founding quality engineer at an early-stage startup, whe
 ---
 ## 🚧 Currently Building
 
-Exploring app development and writing robust test infrastructure across the entire stack. I am documenting the process at my blog here on GitHub [`travwritescode`](https://travwritescode.github.io/)!
+Exploring app development and writing robust test infrastructure across the entire stack. I am documenting the process at my blog here on GitHub [`travwritescode`](https://travwritescode.github.io/blog.html)!
 
 | Repo | What It Is |
 |---|---|
