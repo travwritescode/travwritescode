@@ -9,7 +9,7 @@ Most recently I was the founding quality engineer at an early-stage startup, whe
 ## 🔧 What I Build With
 
 **Testing & Quality**
-- Playwright + Cypress (TypeScript) — E2E, API, visual regression
+- Playwright + Cypress (TypeScript) — E2E, API, visual regression, accessibility
 - Pact + Pactflow — Consumer-driven contract testing
 - k6 — Load and performance testing
 - pytest + httpx — Python API test frameworks
@@ -24,9 +24,12 @@ Most recently I was the founding quality engineer at an early-stage startup, whe
 ---
 ## 🚧 Currently Building
 
+Exploring app development and writing robust test infrastructure across the entire stack. I am documenting the process at my blog here on GitHub [`travwritescode`](https://travwritescode.github.io/)!
+
 | Repo | What It Is |
 |---|---|
 | [`flowstate-api`](https://github.com/travwritescode/flowstate-api) | FastAPI backend — REST API with JWT auth, OpenAPI spec, Pact provider |
+| [`flowstate-web`](https://github.com/travwritescode/flowstate-web) | React frontend, accessibility — Pact consumer, Playwright target |
 | [`pytest-api-framework`](https://github.com/travwritescode/pytest-api-framework) | Python API test suite with pytest, httpx, and Allure reporting |
 
 ---
